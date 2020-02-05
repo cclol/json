@@ -7,6 +7,38 @@
       "type": "Type 1",
       "date": "01/01/2020 13:00 - 13:30",
       "status": "open",
+      "rooms": [
+          {
+              "roomId": "1",
+              "roomName": "Hall A"
+          },
+          {
+              "roomId": "2",
+              "roomName": "Hall B"
+          }
+      ],
+      "capacitys": [
+          {
+              "capacityId": "1",
+              "capacities": "> 100"
+          },
+          {
+            "capacityId": "2",
+            "capacities": "< 100"
+        }
+      ],
+      "convenor": [
+          {
+            "convenorId": "1",
+            "firstname": "Markus",
+            "lastname": "Muster"
+          },
+          {
+            "convenorId": "2",
+            "firstname": "Max",
+            "lastname": "Muster"
+          }
+      ],
       "chairs": [
         {
           "chairId": "12",
@@ -28,6 +60,46 @@
           "firstname": "Peter",
           "lastname": "Pan",
           "country": "Deutschland"
+        }
+      ],
+      "presentations": [
+          {
+              "presentationId": "9",
+              "abstract": [
+                  {
+                      "abstractId": "111",
+                      "category": "1"
+                  }
+              ],
+              "title": "Pres. 1",
+              "type": "Oral",
+              "speaker": [
+                  {
+                      "title": "PhD.",
+                      "firstname": "Marin",
+                      "lastname": "Sar",
+                      "country": "Italy"
+                  }
+              ]
+          },
+          {
+            "presentationId": "7",
+            "abstract": [
+                {
+                    "abstractId": "222",
+                    "category": "1"
+                }
+            ],
+            "title": "Pres. 2",
+            "type": "Oral",
+            "speaker": [
+                {
+                    "title": "Dr.",
+                    "firstname": "Thomas",
+                    "lastname": "Brezina",
+                    "country": "Austria"
+                }
+            ]
         }
       ]
     },
@@ -54,11 +126,6 @@
       "type": "Type 4",
       "date": "01/01/2020 13:00 - 13:30",
       "status": "open"
-    }
-  ],
-  "deadlines": [
-    {
-      "date": "01/01/2020 23:59:59 CET"
     }
   ]
 }
