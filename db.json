@@ -6,7 +6,8 @@
       "title": "title 1",
       "type": "Type 1",
       "date": "01/01/2020 13:00 - 13:30",
-      "status": "open"
+      "status": "open",
+      ""
     },
     {
       "id": 2,
@@ -33,7 +34,7 @@
       "status": "open"
     }
   ],
-  "deadline": [
+  "deadlines": [
     {
       "date": "01/01/2020 23:59:59 CET"
     }
