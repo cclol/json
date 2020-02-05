@@ -8,36 +8,36 @@
       "date": "01/01/2020 13:00 - 13:30",
       "status": "open",
       "rooms": [
-          {
-              "roomId": "1",
-              "roomName": "Hall A"
-          },
-          {
-              "roomId": "2",
-              "roomName": "Hall B"
-          }
+        {
+            "roomId": "1",
+            "roomName": "Hall A"
+        },
+        {
+            "roomId": "2",
+            "roomName": "Hall B"
+        }
       ],
       "capacitys": [
-          {
-              "capacityId": "1",
-              "capacities": "> 100"
-          },
-          {
+        {
+            "capacityId": "1",
+            "capacities": "> 100"
+        },
+        {
             "capacityId": "2",
             "capacities": "< 100"
         }
       ],
       "convenor": [
-          {
+        {
             "convenorId": "1",
             "firstname": "Markus",
             "lastname": "Muster"
-          },
-          {
+        },
+        {
             "convenorId": "2",
             "firstname": "Max",
             "lastname": "Muster"
-          }
+        }
       ],
       "chairs": [
         {
