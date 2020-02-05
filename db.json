@@ -9,21 +9,21 @@
       "status": "open",
       "chairs": [
         {
-          "chairId": "12"
+          "chairId": "12",
           "title": "Dr.",
           "firstname": "Thomas",
           "lastname": "Brezina",
           "country": "Austria"
         },
         {
-          "chairId": "34"
+          "chairId": "34",
           "title": "Dr.",
           "firstname": "Sandra",
           "lastname": "Müller",
           "country": "Deutschland"
         },
         {
-          "chairId": "56"
+          "chairId": "56",
           "title": "PhD.",
           "firstname": "Peter",
           "lastname": "Pan",
