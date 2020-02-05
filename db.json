@@ -2,6 +2,7 @@
   "sessions": [
     {
       "id": 1,
+      "sessionId": "1",
       "title": "title 1",
       "type": "Type 1",
       "date": "01/01/2020 13:00 - 13:30",
@@ -9,6 +10,7 @@
     },
     {
       "id": 2,
+      "sessionId": "4",
       "title": "title 2",
       "type": "Type 2",
       "date": "01/01/2020 13:00 - 13:30",
@@ -16,6 +18,7 @@
     },
     {
       "id": 3,
+      "sessionId": "2",
       "title": "title 3",
       "type": "Type 3",
       "date": "01/01/2020 13:00 - 13:30",
@@ -23,6 +26,7 @@
     },
     {
       "id": 4,
+      "sessionId": "3",
       "title": "title 4",
       "type": "Type 4",
       "date": "01/01/2020 13:00 - 13:30",
