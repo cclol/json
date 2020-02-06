@@ -35,14 +35,14 @@
           "title": "Dr.",
           "firstname": "Sandra",
           "lastname": "Müller",
-          "country": "Deutschland"
+          "country": "Germany"
         },
         {
           "chairId": "56",
           "title": "PhD.",
           "firstname": "Peter",
           "lastname": "Pan",
-          "country": "Deutschland"
+          "country": "Germany"
         }
       ],
       "presentations": [
