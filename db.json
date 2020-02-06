@@ -48,12 +48,11 @@
       "presentations": [
           {
               "presentationId": "9",
-              "abstract": [
+              "abstract":
                   {
                       "abstractId": "111",
                       "category": "1"
-                  }
-              ],
+                  },
               "title": "Pres. 1",
               "type": "Oral",
               "speaker": 
@@ -67,12 +66,11 @@
           },
           {
             "presentationId": "7",
-            "abstract": [
+            "abstract":
                 {
                     "abstractId": "222",
                     "category": "1"
-                }
-            ],
+                },
             "title": "Pres. 2",
             "type": "Oral",
             "speaker": 
