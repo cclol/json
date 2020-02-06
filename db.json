@@ -56,14 +56,14 @@
               ],
               "title": "Pres. 1",
               "type": "Oral",
-              "speaker": [
+              "speaker": 
                   {
                       "title": "PhD.",
                       "firstname": "Marin",
                       "lastname": "Sar",
                       "country": "Italy"
                   }
-              ]
+              
           },
           {
             "presentationId": "7",
@@ -75,14 +75,14 @@
             ],
             "title": "Pres. 2",
             "type": "Oral",
-            "speaker": [
+            "speaker": 
                 {
                     "title": "Dr.",
                     "firstname": "Thomas",
                     "lastname": "Brezina",
                     "country": "Austria"
                 }
-            ]
+            
         }
       ]
     },
