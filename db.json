@@ -4,7 +4,7 @@
       "id": 1,
       "sessionId": "1",
       "title": "title 1",
-      "type": "Type 1",
+      "type": "1",
       "date": "01/01/2020 13:00 - 13:30",
       "status": "open",
       "roomId": "1",
@@ -88,7 +88,7 @@
       "id": 2,
       "sessionId": "4",
       "title": "title 2",
-      "type": "Type 2",
+      "type": "2",
       "date": "01/01/2020 13:00 - 13:30",
       "status": "open"
     },
@@ -96,7 +96,7 @@
       "id": 3,
       "sessionId": "2",
       "title": "title 3",
-      "type": "Type 3",
+      "type": "3",
       "date": "01/01/2020 13:00 - 13:30",
       "status": "done"
     },
@@ -104,7 +104,7 @@
       "id": 4,
       "sessionId": "3",
       "title": "title 4",
-      "type": "Type 4",
+      "type": "4",
       "date": "01/01/2020 13:00 - 13:30",
       "status": "open"
     }
