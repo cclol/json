@@ -1,10 +1,10 @@
   en: {
-    text: {
-      type: 'Type'
+    "text": {
+      "type": "Type"
     }
   },
   de: {
-    text: {
-      type: 'Typ'
+    "text": {
+      "type": "Typ"
     }
   }
