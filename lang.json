@@ -1,1 +1,12 @@
-
+{
+  en: {
+    text: {
+      type: 'Type'
+    }
+  },
+  de: {
+    text: {
+      type: 'Typ'
+    }
+  }
+}
