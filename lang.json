@@ -1,10 +1,56 @@
-  en: {
-    "text": {
-      "type": "Type"
+    "en-US": {
+        text: {
+            "Convenor.session": 'Session',
+            "Convenor.type": 'Type',
+            "Convenor.edit": 'Edit',
+            "Convenor.add_sessions": 'Add Sessions',
+            "Convenor.edit_session": 'Edit session',
+            "Convenor.session_title": 'Session title',
+            "Convenor.description": 'Description',
+            "Convenor.session_type": 'Session Type',
+            "Convenor.session_group": 'Session Group',
+            "Convenor.assign_tags": 'Assign tags',
+            "Convenor.add_tag": 'Add tag...',
+            "Convenor.room": 'Room',
+            "Convenor.req_room_cap": 'Required room capacity',
+            "Convenor.convenor": 'Convenor',
+            "Convenor.chair": 'Chair',
+            "Convenor.presentation": 'Presentation',
+            "Convenor.firstname": 'First Name',
+            "Convenor.lastname": 'Last name',
+            "Convenor.country": 'Country',
+            "Convenor.select_one": 'Select One',
+            "Convenor.add_chair": 'Add Chair',
+            "Convenor.add_abstract": 'Add abstract',
+            "Convenor.add_presentation": 'Add presentation',
+            "Convenor.remove": 'Remove'
+        }
+    },
+    "de-DE": {
+        text: {
+            "Convenor.session": 'Sitzung',
+            "Convenor.type": 'Typ',
+            "Convenor.edit": 'Editieren',
+            "Convenor.add_sessions": 'Session hinzufügen',
+            "Convenor.edit_session": 'Session editieren',
+            "Convenor.session_title": 'Session Titel',
+            "Convenor.description": 'Beschreibung',
+            "Convenor.session_type": 'Session Typ',
+            "Convenor.session_group": 'Session Gruppe',
+            "Convenor.assign_tags": 'Tags zuweisen',
+            "Convenor.add_tag": 'Tag hinzufügen...',
+            "Convenor.room": 'Raum',
+            "Convenor.req_room_cap": 'Erforderliche Raumkapazität',
+            "Convenor.convenor": 'Kursdirektor',
+            "Convenor.chair": 'Vorsitzender',
+            "Convenor.presentation": 'Präsentation',
+            "Convenor.firstname": 'Vorname',
+            "Convenor.lastname": 'Nachname',
+            "Convenor.country": 'Land',
+            "Convenor.select_one": 'Eines auswählen',
+            "Convenor.add_chair": 'Vorsitzender hinzufügen',
+            "Convenor.add_abstract": 'Abstrakt hinzufügen',
+            "Convenor.add_presentation": 'Präsentation hinzufügen',
+            "Convenor.remove": 'Entfernen'
+        }
     }
-  },
-  de: {
-    "text": {
-      "type": "Typ"
-    }
-  }
