@@ -1,34 +1,34 @@
 {
-    "pages": {
-        {
-            "key": "exhibitor",
-            "title": "Exhibitors",
-            "components": [
-                {
-                    "name": "CompanyAccountsList",
-                    "config": {
-                        "filters": ["Topics", "NonProfit"]
-                    }
-                }
-            ] 
-        },
-        {
-            "key": "exhibitor",
-            "title": "Exhibitor profile"
-            "components": [
-                {
-                    "name": "CompanyAccountProfileView",
-                    "config": {}
-                },
-                {
-                    "name": "CompanyAccountListProducts",
-                    "config": {}
-                },
-                {
-                    "name": "CompanyAccountListMeetings"
-                    "config": {}
-                }
-            ]
-        }
+  "pages": {
+    "list": {
+      "key": "exhibitor",
+      "title": "Exhibitors",
+      "components": [
+          {
+              "name": "CompanyAccountsList",
+              "config": {
+                  "filters": ["Topics", "NonProfit"]
+              }
+          }
+      ] 
+    },
+    "profile": {
+      "key": "exhibitor",
+      "title": "Exhibitor profile",
+      "components": [
+          {
+              "name": "CompanyAccountProfileView",
+              "config": {}
+          },
+          {
+              "name": "CompanyAccountListProducts",
+              "config": {}
+          },
+          {
+              "name": "CompanyAccountListMeetings",
+              "config": {}
+          }
+      ]
     }
+  }
 }
